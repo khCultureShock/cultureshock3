@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>hy 연습용</title>
 </head>
 <body>
+	hy 깃 테스트하기!
 
 </body>
 </html>
