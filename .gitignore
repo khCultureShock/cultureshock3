@@ -15,6 +15,14 @@ local.properties
 .loadpath
 .recommenders
 
+# Directories #
+/build/
+/bin/
+target/
+.idea
+classes/
+META-INF/
+
 # External tool builders
 .externalToolBuilders/
 
