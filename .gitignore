@@ -15,6 +15,14 @@ local.properties
 .loadpath
 .recommenders
 
+# Directories #
+/build/
+/bin/
+target/*
+.idea
+classes/
+META-INF/*
+
 # External tool builders
 .externalToolBuilders/
 
@@ -123,3 +131,4 @@ Temporary Items
 .apdisk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,java,eclipse
+
