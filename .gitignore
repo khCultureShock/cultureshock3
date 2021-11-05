@@ -18,10 +18,10 @@ local.properties
 # Directories #
 /build/
 /bin/
-target/
+target/*
 .idea
 classes/
-META-INF/
+META-INF/*
 
 # External tool builders
 .externalToolBuilders/
